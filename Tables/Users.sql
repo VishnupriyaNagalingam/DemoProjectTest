@@ -1,8 +1,3 @@
--- Create a new table called 'Orders' in schema 'dbo'
--- Drop the table if it already exists
-IF OBJECT_ID('dbo.Orders', 'U') IS NOT NULL
-DROP TABLE dbo.Orders
-GO
 -- Create the table in the specified schema
 CREATE TABLE dbo.Orders
 (

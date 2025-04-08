@@ -1,0 +1,12 @@
+C:\Users\admin\OneDrive\Documents\My Web Sites\DemoProjectTest\bin\Debug\DemoProjectTest.dacpac
+C:\Users\admin\OneDrive\Documents\My Web Sites\DemoProjectTest\obj\Debug\DemoProjectTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Documents\My Web Sites\DemoProjectTest\obj\Debug\DemoProjectTest.sourcelink.json
+C:\Users\admin\OneDrive\Documents\My Web Sites\DemoProjectTest\obj\Debug\Model.xml
+C:\Users\admin\OneDrive\Documents\My Web Sites\DemoProjectTest\obj\Debug\refactor.xml
+C:\Users\admin\OneDrive\Documents\My Web Sites\DemoProjectTest\obj\Debug\postdeploy.sql
+C:\Users\admin\OneDrive\Documents\My Web Sites\DemoProjectTest\obj\Debug\predeploy.sql
+C:\Users\admin\OneDrive\Documents\My Web Sites\DemoProjectTest\obj\Debug\DemoProjectTest.dll
+C:\Users\admin\OneDrive\Documents\My Web Sites\DemoProjectTest\obj\Debug\DemoProjectTest.pdb
+C:\Users\admin\OneDrive\Documents\My Web Sites\DemoProjectTest\bin\Debug\DemoProjectTest.deps.json
+C:\Users\admin\OneDrive\Documents\My Web Sites\DemoProjectTest\bin\Debug\DemoProjectTest.dll
+C:\Users\admin\OneDrive\Documents\My Web Sites\DemoProjectTest\bin\Debug\DemoProjectTest.pdb

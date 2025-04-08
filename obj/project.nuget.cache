@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3/ONk1iExRS04CbUEmJq7MOptavaXu/arTskYio7zONJRoGLGhD50+W+GR1WYV0wuCJO3Rfu6F7uJ/9Rss99lw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\OneDrive\\Documents\\My Web Sites\\DemoProjectTest\\DemoProjectTest.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net20\\1.0.3\\microsoft.netframework.referenceassemblies.net20.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
